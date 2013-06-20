@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/BillBuddyPaymentFeeder"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.openspaces.pu.container.integrated.IntegratedProcessingUnitContainer"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="BillBuddyPaymentFeeder"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dcom.gs.jini_lus.groups=${env_var:LOOKUPGROUPS} -Dcom.gs.jini_lus.locators=${env_var:LOOKUPLOCATORS}"/>
+</launchConfiguration>

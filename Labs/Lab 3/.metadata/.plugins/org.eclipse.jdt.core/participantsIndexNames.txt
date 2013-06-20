@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+/home/yarden/_XAPDevTraining/labs/Lab_3-BillBuddy_Application/solution/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/416847572.index
+/BillBuddyWebApplication/src
+/home/yarden/_XAPDevTraining/labs/Lab_3-BillBuddy_Application/solution/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/72578390.index
+/BillBuddyWebApplication/src

@@ -1,0 +1,20 @@
+INDEX VERSION 1.126+C:\_XAPDevTraining\labs\Lab_3-BillBuddy_Application\solution\.metadata\.plugins\org.eclipse.jdt.core
+2552768366.index
+2343435712.index
+3051416020.index
+157332710.index
+1171759258.index
+3975396160.index
+3878126515.index
+3505812611.index
+249712013.index
+468979378.index
+2726947080.index
+1713321512.index
+1007526756.index
+3473936054.index
+751595917.index
+2933318005.index
+3295390193.index
+3089434191.index
+3563621603.index

@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\_XAPDevTraining\labs\Lab_3-BillBuddy_Application\solution\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3953442312.index
+3163275096.index
+1691147256.index
+3089434191.index
+2098373402.index
